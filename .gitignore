@@ -1,1 +1,2 @@
-/aula 03/dados.xlsx
+*.xlsx
+*pynynb_checkpoints
